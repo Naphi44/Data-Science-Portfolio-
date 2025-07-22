@@ -9,11 +9,11 @@ This project explores classical (ARIMA) and modern (Prophet) forecasting techniq
 - A standalone Python script (`time_series_forecasting.py`) that wraps the core pipeline into reusable functions.
 
 ## Repository Structure
-.
-├── README.md
-├── Time\_Series\_Forecasting.ipynb    # Exploratory analysis & modeling walkthrough
-├── time\_series\_forecasting.py       # Production‑ready forecasting module
-└── data/dc.csv                         # CSV File 
+
+   ├── README.md
+   ├── Time\_Series\_Forecasting.ipynb    # Exploratory analysis & modeling walkthrough
+   ├── time\_series\_forecasting.py       # Production‑ready forecasting module
+   └── data/dc.csv                         # CSV File 
 
 
 ## Installation
